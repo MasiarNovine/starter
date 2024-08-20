@@ -7,3 +7,7 @@
 # Credits
 
 1) Lazyvim starter https://github.com/LazyVim/starter as nvchad's starter was inspired by Lazyvim's . It made a lot of things easier!
+
+# Note
+
+This is a fork of NvChad's starter configuration for personal use. It keeps the overal file structure.
