@@ -10,4 +10,4 @@
 
 # Note
 
-This is a fork of NvChad's starter configuration for personal use. It keeps the overal file structure.
+This is a fork of NvChad's starter configuration for personal use, which keeps the overall file structure.
